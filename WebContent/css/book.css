@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.btn {
+  background-color: rgb(81, 39, 114);	
+}
+
+.top{
+	margin: 0% 10%;
+}
+h2, h5{
+	color: rgb(81, 39, 114);
+}
+
+option{
+  font-size: 20px;
+}
+label{
+  font-size: 20px;
+}
+

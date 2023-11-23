@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+.tab {
+	background-color: rgb(224, 224, 224);
+}
+
+.title {
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 25px;
+}
+
+.item {
+	background-color: #FFFFFF;
+}
+
+.first {
+	background-color: rgb(224, 224, 224);
+	height: 160px;
+}
+
+span {
+	font-size: 150px !important;
+}
+
+.middle {
+	font-size: 30px;
+}
+
+button {
+	background-color: rgb(94, 94, 94) !important;
+}
+
+.second {
+	background-color: rgb(190, 190, 190);
+}
+
+.second a {
+	font-size: 20px;
+}
+
+#point {
+	font-size: 45px;
+	color: rgba(47, 170, 174, 0.98);
+}
+
+#title {
+	color: rgb(142, 68, 173);
+	font-size:25px;
+	font-weight: bold;
+}
+button{
+	color: #FFFFFF !important;
+}

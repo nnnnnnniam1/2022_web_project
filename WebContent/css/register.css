@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+#mainborder {
+  border-color: rgb(81, 39, 114) !important;
+}
+form {
+  margin: 5% 15%;
+  font-size: 15px;
+}
+
+#register {
+  margin: 10% 20%;
+}
+#register label {
+  font-size: 20px;
+}
+
+.btn {
+  background-color: rgb(81, 39, 114);
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.btn {
+  background-color: rgb(81, 39, 114);
+}
+
+#login {
+  margin: 10% 30%;
+  background-color: rgba(75, 22, 97, 0.77);
+}
+#login h1 {
+  background-color: white;
+}
+form {
+  margin: 5% 5%;
+}
+.form-check-label {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
